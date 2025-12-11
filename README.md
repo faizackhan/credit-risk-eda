@@ -17,7 +17,7 @@ Do loan amount, purpose, interest rate that strongly predict risk?
 ## methodology
 1. Data Understanding - This includes loading and inspect dataset and understanding variable types(categorical, numerical). 
 
-2. Data Cleaning - Handling missing values, imputing outliers (if need be), convert data types, & creating a binary target variable (e.g., default = 1 if loan_status = "Charged Off")
+2. Data Cleaning - Handling missing values, imputing outliers (if need be), convert data types, & creating a binary target variable default = 1, 0 based off chargedOff var
 
 3. Exploratory Data Analysis - Univariate analysis, Bivariate analysis, etc
 
